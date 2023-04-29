@@ -1,0 +1,24 @@
+
+.Search-container{
+    height: 200px;
+    padding-top: 20px;
+    float: right;
+    
+  }
+    
+  .Search-page{
+    padding: 20px;
+    text-align: center;
+    background-color: black;
+    color: white;
+  }
+
+  .search-button-product{
+    padding: 8px 30px;
+    color: white;
+    background-color: black;
+  }
+
+  .space{
+    height: 50px;
+  }
